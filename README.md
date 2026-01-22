@@ -45,5 +45,5 @@ The analysis provides actionable business recommendations:
 
 ## 📁 Repository Structure
 * `Market_Mix_Modeling_for_Marketing_ROI_Optimization.ipynb`: Complete Python pipeline for MMM.
-* `marketing_campaign_data.xlsx`: (You should upload your dataset here)
+* `marketing_campaign_data.xlsx`: Dataset
 * `README.md`: Project documentation.
