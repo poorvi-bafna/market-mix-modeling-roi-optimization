@@ -47,3 +47,9 @@ The analysis provides actionable business recommendations:
 * `Market_Mix_Modeling_for_Marketing_ROI_Optimization.ipynb`: Complete Python pipeline for MMM.
 * `marketing_campaign_data.xlsx`: Dataset
 * `README.md`: Project documentation.
+
+## ✍️ Author
+**Poorvi Bafna**
+* **GitHub:** [Github](https://github.com/poorvi-bafna)
+* **LinkedIn:** [Linkedin](https://www.linkedin.com/in/poorvi-bafna/))
+* **Email:** poorvibafna23@gmail.com
